@@ -3,7 +3,7 @@ import man from "../../assets/man.png";
 import { Typewriter } from "react-simple-typewriter";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
-import Resume from "../../assets/07AmanResume.pdf";
+import Resume from "../../assets/08AmanResume.pdf";
 
 function Home() {
   useGSAP(() => {

@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
-import Resume from "../../assets/07AmanResume.pdf";
+import Resume from "../../assets/08AmanResume.pdf";
 
 function Nav() {
 
